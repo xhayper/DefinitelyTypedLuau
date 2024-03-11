@@ -1,0 +1,8 @@
+[package]
+name = "xhayper/definitelytyped"
+version = "1.0.0"
+author = "xhayper"
+content_root = "lib"
+license = "MIT"
+
+[dependencies]
